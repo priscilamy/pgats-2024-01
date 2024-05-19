@@ -1,0 +1,14 @@
+{
+  "name": "pgats",
+  "version": "1.0.0",
+  "description": "Trabalho Programação para automação de teste",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.test.js"
+  },
+  "author": "Yogi, Priscila",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.4.0"
+  }
+}
